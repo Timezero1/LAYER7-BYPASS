@@ -4,3 +4,11 @@
 2. node method.js [URL] [DURATION(SECONDS)] [MODE]
 - Example:
 node method.js https://yourmother.com 120 request 5
+
+
+# Bypass
+
+ - CF (ALL)
+ - DDOS GUARD
+ - OVH
+ soon...
