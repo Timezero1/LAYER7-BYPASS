@@ -28,4 +28,6 @@ every day more
 
     GOOD = vultr.com no ban 
 
-    https://cdn.discordapp.com/attachments/826949274175930370/883739802233602058/15M.png
+
+<img src="https://cdn.discordapp.com/attachments/826949274175930370/883739802233602058/15M.png" width="720px">
+    
