@@ -11,8 +11,8 @@ node method.js https://yourmother.com 120 request 5
  - CF (ALL)
  - DDOS GUARD
  - OVH
- soon...
-  
+
+every day more
 
 # BITCHS
  - 6302 
