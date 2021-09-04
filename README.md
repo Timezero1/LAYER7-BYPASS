@@ -12,3 +12,20 @@ node method.js https://yourmother.com 120 request 5
  - DDOS GUARD
  - OVH
  soon...
+  
+
+# BITCHS
+ - 6302 
+every day more
+
+
+# Recommended
+
+    16 RAM 32 RAM
+    8 Vcores
+    1GB/S - 10GB/S
+
+
+    GOOD = vultr.com no ban 
+
+    https://cdn.discordapp.com/attachments/826949274175930370/883739802233602058/15M.png
